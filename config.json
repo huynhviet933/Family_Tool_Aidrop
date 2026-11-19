@@ -1,0 +1,10 @@
+{
+  "max_threads": 50,
+  "delay_task_min": 3,
+  "delay_task_max": 7,
+  "delay_thread_start_min": 3,
+  "delay_thread_start_max": 7,
+  "delay_wallet_min": 10,
+  "delay_wallet_max": 20,
+  "auto_reset_7am_vn": true
+}

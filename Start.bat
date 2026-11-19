@@ -1,0 +1,1 @@
+pm2 start v1.js --name "Family" --max-memory-restart 2G --node-args="--max-old-space-size=2048"
